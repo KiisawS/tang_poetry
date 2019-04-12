@@ -1,4 +1,5 @@
-![链接到其他人项目，使用了他的数据](https://github.com/hxgdzyuyi/tang_poetry.git)
+[链接到其他人项目，使用了他的数据](https://github.com/hxgdzyuyi/tang_poetry.git)
+
 
 # 全唐诗数据库
 爬取的全唐诗数据库
